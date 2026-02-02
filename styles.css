@@ -1,0 +1,78 @@
+
+    a:link {color: white; font-family: Verdana; font-weight: bold;}
+    a:visited {color: white;}
+    a:hover {color: orange; font-size: 1.1em;}
+    a:active {color: yellow;}
+    
+        body {
+        font-size: 11px;
+        background-size: cover;
+            background-color: rgb(93, 170, 97)
+        }
+        h6 {font-size: 2em; font-weight: bold;} 
+ 
+        .details {font-size: 1em;}
+        .blog-post {font-size: 20px;}
+        .big {font-size: 1.5em;}
+        .bigger {font-size: 3em;}
+        .text-red {color: red;}
+         
+        #Grand_Heading {
+            position: relative; left: 10%; top:10px;
+
+            z-index: 2;
+            font-size: 3em; color: white;
+            font-family: Helvetica, sans-serif;
+            font-weight: bold;
+            text-decoration:underline;
+            text-align: center;
+
+        }
+         #quick-bar {
+            position: relative; left: 11%; top:20px;
+            font-size: 1em;
+            color: black;
+            padding-bottom: 0px;
+            
+        }
+
+        #Header {
+            width: 100%;
+            position: center;
+            top: 0px;
+            max-width: 100%;
+             height: auto;
+            vertical-align: top;
+        }
+
+        #content-area {
+            width: 100%;
+            position: center;
+            text-align: center;
+            margin-top: 100px;
+            max-width: 100%;
+             height: auto;
+             font-size: 2em;
+            vertical-align: top;
+            color: rgb(255, 255, 255);
+            font-family: arial, sans-serif;
+        }
+                #tracker {
+            width: 100%;
+            position: center;
+            text-align: left;
+            max-width: 80%;
+             height: auto;
+             font-size: 2em;
+            vertical-align: top;
+            color: rgb(255, 255, 255);
+            font-family: arial, sans-serif;
+        }
+        .yt-embed {
+            width: 70%;
+            height: 35%;
+        }
+        .promotion {
+            font-weight: bold;
+            font-size: 1.5em;
+        }
